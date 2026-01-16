@@ -38,7 +38,7 @@
 #include "vl53l4cx_xtalk_private_structs.h"
 #include "Wire.h"
 
-#define VL53L4CX_DEFAULT_DEVICE_ADDRESS           0x52
+#define VL53L4CX_DEFAULT_DEVICE_ADDRESS           0x40
 
 #define VL53L4CX_NVM_POWER_UP_DELAY_US             50
 #define VL53L4CX_NVM_READ_TRIGGER_DELAY_US          5
